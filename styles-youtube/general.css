@@ -1,0 +1,16 @@
+p {
+  font-family: Roboto,Arial ;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+body{
+  margin: 0px;
+}
+
+.sidebar-text{
+  font-family: Roboto,Arial ;
+  font-size: 11px;
+  margin-left: 3px;
+  margin-top: 4px;
+}
